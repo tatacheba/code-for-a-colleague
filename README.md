@@ -1,2 +1,2 @@
-# code-for-a-colleague
+#Инструкция
 Для запуска тестов в Jenkins нужно добавить capabilities
