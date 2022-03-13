@@ -45,8 +45,8 @@ public class AcronParametrizedTests {
 //            "0, https://www.acron.ru/contacts", -- не ясно как открыть в новой вкладке
             "1, https://vk.com/acronpjsc",
 //            "2, https://www.facebook.com/AcronPJSC",  // в россии не доступен больше
-            "3, https://www.youtube.com/channel/UCKxgdzy7CMqws5Z6TR_UuqA",
-            "4, https://www.instagram.com/acron_group/", // не самый стабильный тест
+//            "3, https://www.youtube.com/channel/UCKxgdzy7CMqws5Z6TR_UuqA",
+//            "4, https://www.instagram.com/acron_group/", // не самый стабильный тест
             // после второго открытия просит зарегестрироваться (куки и кеш чистится после каждого
             // выполнения теста в @AfterEach после проверки задания не дали подсказку, что можно исправить
             "5, https://t.me/acron_official"
